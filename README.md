@@ -21,7 +21,7 @@ Install requirements using pip:
 pip install Flask Flask-SocketIO eventlet
 ```
 
-To start a server on localhost:
+To start the server on localhost:
 ```
 python server.py
 ```
